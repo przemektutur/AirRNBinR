@@ -1500,8 +1500,18 @@ ggplot(data = melted_r_sq, aes(x = CategoricalVar, y = NumericVar, fill = R_Squa
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
 ```
-### WYKRES V CRAMERA
+### WYKRESY
 
+![7](https://github.com/przemektutur/AirRNBinR/assets/120668914/c213b183-8a11-488b-bac1-63e53d789a8a)
+![6](https://github.com/przemektutur/AirRNBinR/assets/120668914/b979d7f1-65ff-4ca8-87fb-ef928b7bf6c7)
+![5](https://github.com/przemektutur/AirRNBinR/assets/120668914/c78b14ac-bdc4-4433-8014-a5114f1b33bb)
+![4](https://github.com/przemektutur/AirRNBinR/assets/120668914/ee324b26-f448-4bc5-84b5-f47286fdc109)
+![3](https://github.com/przemektutur/AirRNBinR/assets/120668914/c808113d-2201-4e38-8216-21429550fbed)
+![2](https://github.com/przemektutur/AirRNBinR/assets/120668914/4256f67b-22bb-4633-8dcf-a3c5fc6674d9)
+![1](https://github.com/przemektutur/AirRNBinR/assets/120668914/353d2deb-0893-480c-8bb7-ec18afc82aa4)
+![10](https://github.com/przemektutur/AirRNBinR/assets/120668914/494c9738-dbb5-4dcd-8d9e-b10289c554c6)
+![9](https://github.com/przemektutur/AirRNBinR/assets/120668914/7bfa42da-1b68-4043-bf62-756fc7574144)
+![8](https://github.com/przemektutur/AirRNBinR/assets/120668914/a4fdbb9b-e271-4b64-a21a-0d2cc11a0f5e)
 
 **PODSUMOWANIE**
 
