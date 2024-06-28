@@ -1500,7 +1500,7 @@ ggplot(data = melted_r_sq, aes(x = CategoricalVar, y = NumericVar, fill = R_Squa
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
 ```
-### WYKRESY
+### PRZYKŁADOWE WYKRESY
 
 ![7](https://github.com/przemektutur/AirRNBinR/assets/120668914/c213b183-8a11-488b-bac1-63e53d789a8a)
 ![6](https://github.com/przemektutur/AirRNBinR/assets/120668914/b979d7f1-65ff-4ca8-87fb-ef928b7bf6c7)
