@@ -61,12 +61,12 @@ numeryczną) oraz (podobnie jak powyżej) zwizualizowanie tych zależności w fo
 wykresów
 
 ### INSTALACJA SRODOWISKA URUCHOMIENIOWEGO
-
+```
 # !apt-get install r-base
 
 # !R -e 'install.packages("IRkernel")'
 # !R -e 'IRkernel::installspec(user = FALSE)'
-```
+
 install.packages("caret")
 
 install.packages("corrplot")
